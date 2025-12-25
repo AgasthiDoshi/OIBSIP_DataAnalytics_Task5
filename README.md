@@ -38,7 +38,7 @@ evaluating, and interpreting a regression model.
 
 ### Internship Task Submission
 This project was completed as **Internship Task 5** under the
-**Data Analytics Internship** at **OSS Infobyte**.
+**Data Analytics Internship** at **OASIS Infobyte**.
 
 
 ##  Show Your Support
