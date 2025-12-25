@@ -1,5 +1,5 @@
 # House Price Prediction Using Linear Regression
-
+![House Price Prediction](https://github.com/AgasthiDoshi/OIBSIP_DataAnalytics_Task5/blob/main/20251225_1352_Data%20Analytics%20Cover_simple_compose_01kda9j0evf2j8y66apcrxmdn2.png)
 ## Project Objective
 The objective of this project is to build a predictive model using
 linear regression to estimate house prices based on relevant features.
